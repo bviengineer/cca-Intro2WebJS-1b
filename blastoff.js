@@ -1,4 +1,4 @@
-/* Blast Off Program */
+//Blast Off Program
 
 var startNum = 10;
 
